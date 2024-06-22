@@ -5,6 +5,9 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Auth Tutorial",
   description: "Simple Auth Tutorial nextjs next-authv5 tailwindcss",
+  icons: {
+    icon: "/lock_226828.png",
+  },
 };
 
 export default function RootLayout({
